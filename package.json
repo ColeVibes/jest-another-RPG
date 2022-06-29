@@ -1,8 +1,25 @@
 {
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colevibes/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colevibes/jest-another-RPG/issues"
+  },
   "devDependencies": {
     "jest": "^27.4.7"
   },
   "dependencies": {
+    "algo": "^1.0.0",
     "i": "^0.3.7",
     "inquirer": "^8.2.0"
   }
